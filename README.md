@@ -1,7 +1,7 @@
 <h1> Olá, meu nome é Beatriz Paixão
 <h3> Seja bem vindo ao meu GitHub :)</h3>
 
-  - 🚀 Tenho 22 anos
+  - 🚀 Tenho 23 anos
   - 😊 Pronouns: ela/dela - she/her
   - 🎓 Formada em Produção Multimia pela Universidade Santa Cecília
   - 🏵️ Formada em Desenvolvimento Web Java Júnior através do bootcamp da Generation Brazil.
@@ -23,8 +23,8 @@
   
   <div>
   <a href="https://github.com/biiah-paixao">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=biiah-paixao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biiah-paixao&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=beatrizpsperon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizpsperon&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
 
